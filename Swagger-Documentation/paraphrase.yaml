@@ -4,7 +4,7 @@ info:
   version: "1.0.0"
   title: "Paraphrase Generator"
   contact:
-    email: "saivamsi.ds123@gmail.com"
+    email: "sivasriram1206@gmail.com"
 host: "paraphrase.swagger.io"
 basePath: "/"
 tags:
